@@ -1,0 +1,20 @@
+https://projectworlds.in/python-projects-with-source-code/online-examination-system-project-in-django/
+
+
+python manage.py createsuperuser
+
+
+Re-run the server
+python manage.py runserver
+
+Open localhost:8000/admin
+
+
+admin username - admin
+
+admin password - admin123
+
+
+student username - yugesh
+
+student password - yugesh123
